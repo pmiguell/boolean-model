@@ -1,0 +1,11 @@
+casa: 1,1 2,4 3,1
+engracado: 1,1
+nao: 1,2 2,1
+ter: 1,2
+teto: 1,1
+morar: 2,1 3,1
+tambem: 2,1
+casar: 3,2
+comigo: 3,2
+amor: 3,1
+faca: 3,1
