@@ -1,1 +1,1 @@
-# modelo-booleano
+# boolean-model
